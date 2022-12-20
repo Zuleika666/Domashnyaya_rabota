@@ -1,0 +1,15 @@
+C:\Practice_1\Primer3\obj\Debug\net6.0\Primer3.csproj.AssemblyReference.cache
+C:\Practice_1\Primer3\obj\Debug\net6.0\Primer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice_1\Primer3\obj\Debug\net6.0\Primer3.AssemblyInfoInputs.cache
+C:\Practice_1\Primer3\obj\Debug\net6.0\Primer3.AssemblyInfo.cs
+C:\Practice_1\Primer3\obj\Debug\net6.0\Primer3.csproj.CoreCompileInputs.cache
+C:\Practice_1\Primer3\bin\Debug\net6.0\Primer3.exe
+C:\Practice_1\Primer3\bin\Debug\net6.0\Primer3.deps.json
+C:\Practice_1\Primer3\bin\Debug\net6.0\Primer3.runtimeconfig.json
+C:\Practice_1\Primer3\bin\Debug\net6.0\Primer3.dll
+C:\Practice_1\Primer3\bin\Debug\net6.0\Primer3.pdb
+C:\Practice_1\Primer3\obj\Debug\net6.0\Primer3.dll
+C:\Practice_1\Primer3\obj\Debug\net6.0\refint\Primer3.dll
+C:\Practice_1\Primer3\obj\Debug\net6.0\Primer3.pdb
+C:\Practice_1\Primer3\obj\Debug\net6.0\Primer3.genruntimeconfig.cache
+C:\Practice_1\Primer3\obj\Debug\net6.0\ref\Primer3.dll
